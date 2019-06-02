@@ -164,7 +164,7 @@ export class App extends React.Component{
 
 
 <h1 align='center'>
-  Incase oF This Error.
+  Incase Of This Error.
 </h1>
 
 <img width="1280" alt="Screen Shot 2019-06-02 at 10 34 10" src="https://user-images.githubusercontent.com/37377831/58760841-34605480-8535-11e9-86c6-a124b53dcee7.png">

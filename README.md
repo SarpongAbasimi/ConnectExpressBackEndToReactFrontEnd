@@ -179,3 +179,8 @@ export class App extends React.Component{
   - Nothing Shows up.
   - Make sure to ``restart the server``.
   - This should holpefully ``fix`` the problem.
+
+- If everything was successful, you should see this.
+  - <img width="1278" alt="Screen Shot 2019-06-02 at 13 01 56" src="https://user-images.githubusercontent.com/37377831/58760983-b13ffe00-8536-11e9-8fde-cb6827858a4e.png">
+
+

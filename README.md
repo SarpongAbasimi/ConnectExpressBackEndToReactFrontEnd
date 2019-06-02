@@ -2,7 +2,7 @@
   React Frontend And A Node/Express Backend.
 </h1>
 
-> My personal Learning goal this week was to learn how to test ``async`` application in ``javaScript`` and also learn how to connect an ``Express`` Application to a ``React Application``.
+> My personal learning goal for this week was to learn how to test ``async`` application in ``javaScript`` and also learn how to connect an ``Express`` Application to a ``React Application``.
 
  <h1 align='center'>
    Was I Able To Achieve This Learning Goal?
